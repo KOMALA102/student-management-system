@@ -73,6 +73,7 @@ The application will then be available at the local address shown in your termin
 
 my project screenshort 
 <img width="1419" height="960" alt="image" src="https://github.com/user-attachments/assets/4c23cded-37c3-41a8-a1f1-bc057f098230" />
+final output of the project
 
 
 ## 🎯 Future Improvements
